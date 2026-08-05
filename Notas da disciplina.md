@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/alexandrezamberlan/tias/refs/heads/main/mapaMe
 
 sistemas de recomendação tem ma escala menos menor e não necessariamente utlitaria, como netflix para recompendar conteudo se limita ao usuario, enquanto apoio a decisão é muito mais aprofundado em histórico e afins
 
+02 - 04/08/2026
 
 Saúde:
 	Diagnóstico
