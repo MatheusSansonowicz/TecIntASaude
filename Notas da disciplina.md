@@ -1,4 +1,4 @@
-aula 01 - 28/07/2026
+**aula 01 - 28/07/2026**
 
 X talvez libere pra instuições até 20gb de dados, caso de uso na ufn a 10+ anos atrás
 Aluno em referencia: Matheus Colinsqui (Ou algo assim), ta no tcc online
@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/alexandrezamberlan/tias/refs/heads/main/mapaMe
 sistemas de recomendação tem ma escala menos menor e não necessariamente utlitaria, 
 como netflix para recompendar conteudo se limita ao usuario, enquanto apoio a decisão é muito mais aprofundado em histórico e afins
 
-02 - 04/08/2026
+**02 - 04/08/2026**
 
 Saúde:
 	Diagnóstico
@@ -18,7 +18,9 @@ Saúde:
 		- automação
 	Predição e Previsão
 		- reconhecer padrões -> volume de dados -> algoritmos de mineração
-03 - 11/04/2026
+
+**03 - 11/04/2026**
+
 	Predição: classificação = categorização = etiquetação
 	Previsoes: series temporais = tempo continuo = projeção
 	
